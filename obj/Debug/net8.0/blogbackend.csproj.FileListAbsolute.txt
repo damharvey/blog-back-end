@@ -35,3 +35,10 @@ C:\Users\admin\Documents\Dam\Project\Hospital\blogbackend\obj\Debug\net8.0\refin
 C:\Users\admin\Documents\Dam\Project\Hospital\blogbackend\obj\Debug\net8.0\blogbackend.pdb
 C:\Users\admin\Documents\Dam\Project\Hospital\blogbackend\obj\Debug\net8.0\blogbackend.genruntimeconfig.cache
 C:\Users\admin\Documents\Dam\Project\Hospital\blogbackend\obj\Debug\net8.0\ref\blogbackend.dll
+C:\Users\admin\Documents\Dam\Project\Hospital\blogbackend\obj\Debug\net8.0\blogbackend.sourcelink.json
+C:\Users\admin\Documents\Dam\Project\Hospital\blogbackend\bin\Debug\net8.0\System.Web.Cors.dll
+C:\Users\admin\Documents\Dam\Project\Hospital\blogbackend\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\admin\Documents\Dam\Project\Hospital\blogbackend\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\admin\Documents\Dam\Project\Hospital\blogbackend\bin\Debug\net8.0\System.Web.Http.Cors.dll
+C:\Users\admin\Documents\Dam\Project\Hospital\blogbackend\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Dam\Project\Hospital\blogbackend\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
